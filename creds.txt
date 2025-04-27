@@ -1,2 +1,0 @@
-username = nhm234
-password = mtre09
